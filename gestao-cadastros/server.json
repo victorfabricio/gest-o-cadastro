@@ -1,0 +1,32 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://images-na.ssl-images-amazon.com/images/I/41qeEtBu02L._SX357_BO1,204,203,200_.jpg",
+            "name": "Python",
+            "description": "",
+            "price": 55.32
+        },
+        {
+            "id": 2,
+            "photo": "https://images-na.ssl-images-amazon.com/images/I/51A80FGauIL._SX357_BO1,204,203,200_.jpg",
+            "name": "JavaScript",
+            "description": "",
+            "price": 45.74
+        },
+        {
+            "id": 3,
+            "photo": "https://images-na.ssl-images-amazon.com/images/I/51Meg8yMu8L._SX347_BO1,204,203,200_.jpg",
+            "name": "SQL",
+            "description": "",
+            "price": 35.55
+        },
+        {
+            "id": 4,
+            "photo": "https://images-na.ssl-images-amazon.com/images/I/51WXwe7xbhL._SX359_BO1,204,203,200_.jpg",
+            "name": "Scratch",
+            "description": "",
+            "price": 85.02
+        }
+    ]
+}
