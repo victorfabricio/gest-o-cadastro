@@ -2,4 +2,3 @@
 
 #### Esse projeto tem como funcionalidade o cadastro de produtos no carrinho
 
-# gest-o-cadastro
